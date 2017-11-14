@@ -25,13 +25,13 @@
         android:id="@+id/activity_main_username_edit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Utilisateur"
+        android:hint="Utilisateur..."
         android:layout_marginTop="40dp"/>
     <EditText
         android:id="@+id/activity_main_password_edit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="motDePasse"
+        android:hint="motDePasse..."
         android:layout_marginTop="20dp"
         />
 
